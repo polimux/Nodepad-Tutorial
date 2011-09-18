@@ -1,0 +1,5 @@
+h2 New Document
+p
+ a(href='/documents', class='btn') &larr; All Documents
+form(method='post', action='/documents', class='form-stacked')
+  !=partial('documents/fields', { locals: { d: d } })

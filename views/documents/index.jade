@@ -1,0 +1,11 @@
+div.sidebar
+  div(id='DocumentTitles', class='outline-view')
+    ul(id='document-list')
+       - for (var d in documents)
+        li
+            a(id='document-title-' + documents[d].id, href='/documents/' + documents[d].id)
+            =documents[d].title
+div.content
+  textarea(name='d[data]', id='editor')=d.data || ''
+     
+        
