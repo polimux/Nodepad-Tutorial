@@ -1,0 +1,434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/philipp/Nodepad-Tutorial/views/documents/index.jade",
+			"settings":
+			{
+				"buffer_size": 554,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/philipp/Nodepad-Tutorial/app.js",
+			"settings":
+			{
+				"buffer_size": 6157,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/philipp/Nodepad-Tutorial/public/stylesheets/style.less",
+			"settings":
+			{
+				"buffer_size": 30,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/philipp/Nodepad-Tutorial/public/stylesheets/style.css",
+			"settings":
+			{
+				"buffer_size": 2823,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/philipp/Nodepad-Tutorial/views/layout.jade",
+			"settings":
+			{
+				"buffer_size": 1292,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/philipp/Nodepad-Tutorial/public/javascripts/application.js",
+			"settings":
+			{
+				"buffer_size": 2737,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 50,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449
+	},
+	"console":
+	{
+		"height": 129
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/philipp/Desktop/maamo Bogger Template/maamo.xml",
+		"/home/philipp/Downloads/template-3176668731771686102.xml",
+		"/home/philipp/Desktop/test/js/bootstrap.js",
+		"/home/philipp/Downloads/tmp.xml",
+		"/home/philipp/Desktop/noncurroptis_boilerplate/index.html",
+		"/home/philipp/Desktop/noncorruptis/index.html",
+		"/home/philipp/Desktop/noncurroptis_boilerplate/js/script.js",
+		"/home/philipp/Desktop/noncurroptis_boilerplate/css/style.css",
+		"/home/philipp/Desktop/noncurroptis_boilerplate/css/buttons.css",
+		"/home/philipp/Desktop/noncorruptis/css/button.csss",
+		"/home/philipp/Desktop/noncorruptis/js/view.js",
+		"/home/philipp/Desktop/noncorruptis/js/bootstrap.js",
+		"/home/philipp/Desktop/noncorruptis/js/model.js",
+		"/home/philipp/Desktop/noncorruptis/js/router.js",
+		"/home/philipp/Desktop/noncorruptis/css/app.css",
+		"/home/philipp/Desktop/noncorruptis/js/custom/script.js",
+		"/home/philipp/Desktop/chromatron-html5-admin-backend/HTML5/css/style.css",
+		"/home/philipp/Desktop/noncorruptis/src/js/custom/jquery.h5f.js",
+		"/home/philipp/Desktop/noncorruptis/src/index.orig.html",
+		"/home/philipp/Desktop/noncorruptis/src/index.html",
+		"/home/philipp/Desktop/noncorruptis/src/css/app.css",
+		"/home/philipp/Desktop/noncurroptis/css/buttons.css",
+		"/home/philipp/Desktop/noncurroptis/index.html",
+		"/home/philipp/workspace/ProjectControllBoard/war/WEB-INF/web.xml",
+		"/home/philipp/workspace/src/v1/appengine-sample/README.txt"
+	],
+	"find":
+	{
+		"height": 33
+	},
+	"find_in_files":
+	{
+		"height": 87,
+		"include_history":
+		[
+			""
+		],
+		"location_history":
+		[
+			"/home/philipp/Desktop/noncorruptis/js",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"pagel",
+			"class='",
+			"<li>",
+			"class='.*'/>",
+			"class='.*'>",
+			"class='.*' ",
+			"class='.*'",
+			"<b:if cond='data:mobile'>",
+			"border",
+			"dict",
+			" </b:widget>\n      </b:section>",
+			"Attribut",
+			"Attribution1",
+			"attribution1",
+			"blog",
+			"widget",
+			"content",
+			"nav",
+			"navbar",
+			"pagel",
+			"git",
+			"background-color",
+			"color",
+			"home",
+			"footer",
+			"about me",
+			"sec",
+			"footer",
+			"header",
+			"# header",
+			"#header",
+			"h1",
+			"#logo",
+			"#logo ",
+			".about",
+			"about",
+			"portfolio",
+			"lava"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"old-class='",
+			"/>",
+			">",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/philipp/Nodepad-Tutorial/views/documents/index.jade",
+					"settings":
+					{
+						"buffer_size": 554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/philipp/Nodepad-Tutorial/app.js",
+					"settings":
+					{
+						"buffer_size": 6157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3554,
+								3554
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 1392,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/philipp/Nodepad-Tutorial/public/stylesheets/style.less",
+					"settings":
+					{
+						"buffer_size": 30,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/less/Syntaxes/LESS.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/philipp/Nodepad-Tutorial/public/stylesheets/style.css",
+					"settings":
+					{
+						"buffer_size": 2823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2583,
+								2583
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 1581,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/philipp/Nodepad-Tutorial/views/layout.jade",
+					"settings":
+					{
+						"buffer_size": 1292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								850,
+								850
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/philipp/Nodepad-Tutorial/public/javascripts/application.js",
+					"settings":
+					{
+						"buffer_size": 2737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2177,
+								2177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 432,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0
+	},
+	"input":
+	{
+		"height": 29
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240,
+	"status_bar_visible": true
+}

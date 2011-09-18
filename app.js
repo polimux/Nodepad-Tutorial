@@ -86,7 +86,7 @@ app.get('/documents.:format?', loadUser, function(req, res) {
 
       // Else render a database template (this isn't ready yet)
       default:
-      
+          
        res.render('documents/index.jade', {
           locals: { documents: documents, currentUser: req.currentUser }
         });
@@ -124,14 +124,14 @@ app.get('/documents/new', loadUser, function(req, res) {
 });
 
 // Read document
-app.get('/documents/:id.:format?', function(req, res) {
+app.get('/documents/:id.:format?', loadUser, function(req, res) {
 
   Document.findOne({ _id: req.params.id }, function(err, d) {
   switch (req.params.format) {
       // When json, generate suitable data
       case 'json':
-        
-        res.send(d.__doc);
+        console.info(d.toObject());
+        res.send(d.toObject());
       break;
 
       // Else render a database template (this isn't ready yet)
